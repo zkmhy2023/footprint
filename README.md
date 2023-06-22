@@ -23,10 +23,10 @@ footprintJS中的以下代码定制你的足迹信息：
          // 添加更多城市和文本信息...
   ];
   其中city中的城市和text中的文本修改成你的足迹城市和要显示的文本信息。
-  
-   -  // json设置地图样式
-   
-   部分json代码可更换成你喜欢的地图样式，参考文档https://lbs.baidu.com/apiconsole/custommap
+
+- 地图样式修改
+     
+   // json设置地图样式部分json代码可更换成你喜欢的地图样式，参考文档https://lbs.baidu.com/apiconsole/custommap
 
 
 
