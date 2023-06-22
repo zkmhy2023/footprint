@@ -11,7 +11,7 @@
 ## 数据
 
 这个项目使用了以下数据：
-API设置：
+-  API设置：
 html中代码<script src="https://api.map.baidu.com/api?v=2.0&ak=6B18dmxOHXGyP3Z3jUM8AG5zDpUf2SbU"></script>
 “6B18dmxOHXGyP3Z3jUM8AG5zDpUf2SbU”部分请改成你自己的API
 
@@ -24,7 +24,7 @@ footprintJS中的以下代码定制你的足迹信息：
   ];
   其中city中的城市和text中的文本修改成你的足迹城市和要显示的文本信息。
   
-   // json设置地图样式
+   -  // json设置地图样式
    
    部分json代码可更换成你喜欢的地图样式，参考文档https://lbs.baidu.com/apiconsole/custommap
 
